@@ -20,4 +20,4 @@ I'm a **second-year IT student** preparing my foundation for a career as a **QC 
 
 ### 📊 GitHub Stats
 
-[![Bá Thành's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathanh1735&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Bá Thành's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bathanh1735&theme=react-dark)
